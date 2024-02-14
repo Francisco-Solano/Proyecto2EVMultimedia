@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"
+        app:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/crear"
+        android:title="Crear"
+        android:icon="@drawable/ic_create"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/editar"
+        android:icon="@drawable/ic_edit"
+        android:title="Editar"
+        app:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/eliminar"
+        android:icon="@drawable/ic_delete"
+        android:title="Eliminar"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/salir"
+        android:icon="@drawable/ic_exit"
+        android:title="salir"
+        app:showAsAction="always" />
+
+
+</menu>
