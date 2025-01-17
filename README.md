@@ -1,3 +1,7 @@
+## Proyecto de Multimedia
+
+Este es el repositorio de uno de los proyetos que tuve que hacer para la asignatura de multimedia, se muestra el enunciado para que se sepan cuales son los objetivos de la aplicacion y posterioirmente imagenes con explicaciones de como he llegado a los diferentes objetivos tratando de documentar de la manera más profesional posible.
+
 ENUNCIADO
 
 El alumno deberá crear una aplicación en Android Studio. Los requisitos mínimos para
